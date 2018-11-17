@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  P7.cpp
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(40): warning C4018: '<=': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(45): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(72): warning C4018: '<=': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(86): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(98): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(113): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(128): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(128): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(139): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(145): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(152): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(159): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(165): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(170): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(184): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(191): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(203): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(208): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(214): warning C4018: '>': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(217): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(221): warning C4018: '>': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p7\p7.cpp(246): warning C4018: '<': signed/unsigned mismatch
+  P7.vcxproj -> D:\AI2\A3_Russell_Stirling\A3_Russell_Stirling\Debug\P7.exe

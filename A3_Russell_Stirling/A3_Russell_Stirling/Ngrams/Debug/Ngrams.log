@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\ai2\a3_russell_stirling\a3_russell_stirling\ngrams\test.cpp(61): warning C4018: '<=': signed/unsigned mismatch
+  fileRead.cpp
+  Generating Code...
+  Ngrams.vcxproj -> D:\AI2\A3_Russell_Stirling\A3_Russell_Stirling\Debug\Ngrams.exe

@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  P4.cpp
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p4\p4.cpp(40): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p4\p4.cpp(42): warning C4018: '<=': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p4\p4.cpp(47): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p4\p4.cpp(78): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p4\p4.cpp(95): warning C4018: '>': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p4\p4.cpp(112): warning C4018: '>': signed/unsigned mismatch
+  P4.vcxproj -> D:\AI2\A3_Russell_Stirling\A3_Russell_Stirling\Debug\P4.exe

@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  P3.cpp
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p3\p3.cpp(43): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p3\p3.cpp(45): warning C4018: '<=': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p3\p3.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p3\p3.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p3\p3.cpp(73): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p3\p3.cpp(96): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p3\p3.cpp(105): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p3\p3.cpp(122): warning C4018: '>': signed/unsigned mismatch
+  P3.vcxproj -> D:\AI2\A3_Russell_Stirling\A3_Russell_Stirling\Debug\P3.exe

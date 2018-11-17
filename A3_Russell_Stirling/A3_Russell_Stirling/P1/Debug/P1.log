@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  P1.cpp
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p1\p1.cpp(50): warning C4018: '<=': signed/unsigned mismatch
+  P1.vcxproj -> D:\AI2\A3_Russell_Stirling\A3_Russell_Stirling\Debug\P1.exe

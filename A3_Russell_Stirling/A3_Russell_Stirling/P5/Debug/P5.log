@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  P5.cpp
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(42): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(44): warning C4018: '<=': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(49): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(66): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(76): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(91): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(106): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(106): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(116): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(122): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(129): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(142): warning C4018: '<': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(150): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(155): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(157): warning C4018: '>': signed/unsigned mismatch
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(160): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\ai2\a3_russell_stirling\a3_russell_stirling\p5\p5.cpp(164): warning C4018: '>': signed/unsigned mismatch
+  P5.vcxproj -> D:\AI2\A3_Russell_Stirling\A3_Russell_Stirling\Debug\P5.exe
